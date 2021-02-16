@@ -7,10 +7,8 @@
 - 🥅 2021 Goal - Learn to code properly
 - ⚡ Fun fact - Lazy
 
-<!-- ❔❔❔❔ means username in below README.md -->
-<!-- Also feel free to update second URL to any URL -->
-[![Sidharth's github stats](https://github-readme-stats.vercel.app/api?username=TechSpiritSS&count_private=true&include_all_commits=true&theme=onedark&show_icons=true)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechSpiritSS&layout=compact)]
+![Sidharth's github stats](https://github-readme-stats.vercel.app/api?username=TechSpiritSS&count_private=true&include_all_commits=true&theme=onedark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechSpiritSS&layout=compact&theme=onedark)
 
 ## Connect with me:
 [![linkedin badge](https://img.shields.io/badge/Sidharth_Sethi-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/sidharthsethiss)
