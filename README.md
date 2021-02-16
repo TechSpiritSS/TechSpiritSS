@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, I'm Sidharth Sethi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**TechSpiritSS/TechSpiritSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on - CrossWoC DSA Guide
+- 🌱 I’m currently learning - C, C++
+- 👯 I’m looking to collaborate with - Open Source Projects
+- 💬 Ask me about - My codes
+- 🥅 2021 Goal - Learn to code properly
+- ⚡ Fun fact - Lazy
 
-Here are some ideas to get you started:
+<!-- ❔❔❔❔ means username in below README.md -->
+<!-- Also feel free to update second URL to any URL -->
+[![Sidharth's github stats](https://github-readme-stats.vercel.app/api?username=TechSpiritSS&count_private=true&include_all_commits=true&theme=onedark&show_icons=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechSpiritSS&layout=compact)]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me:
+[![linkedin badge](https://img.shields.io/badge/Sidharth_Sethi-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/sidharthsethiss)
+[![twitter badge](https://img.shields.io/badge/TechSpiritSS-30302f?style=flat&logo=twitter)](https://twitter.com/TechSpiritSS)
+[![medium badge](https://img.shields.io/badge/TechSpiritSS-30302f?style=flat&logo=instagram)](https://instagram.com/TechSpiritSS)
