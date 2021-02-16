@@ -17,4 +17,3 @@
 [![twitter badge](https://img.shields.io/badge/TechSpiritSS-30302f?style=flat&logo=twitter)](https://twitter.com/TechSpiritSS)
 [![insta badge](https://img.shields.io/badge/TechSpiritSS-30302f?style=flat&logo=instagram)](https://instagram.com/TechSpiritSS)
 [![telegram badge](https://img.shields.io/badge/TechSpiritSS-30302f?style=flat&logo=telegram)](https://t.me/TechSpiritSS)
-[![telegram badge](https://img.shields.io/badge/TechSpiritSS-30302f?style=flat&logo=telegram)](https://mailto:sidharthclashofclans@gmail.com)
