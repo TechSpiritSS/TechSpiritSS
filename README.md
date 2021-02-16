@@ -13,4 +13,5 @@
 ## Connect with me:
 [![linkedin badge](https://img.shields.io/badge/Sidharth_Sethi-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/sidharthsethiss)
 [![twitter badge](https://img.shields.io/badge/TechSpiritSS-30302f?style=flat&logo=twitter)](https://twitter.com/TechSpiritSS)
-[![medium badge](https://img.shields.io/badge/TechSpiritSS-30302f?style=flat&logo=instagram)](https://instagram.com/TechSpiritSS)
+[![insta badge](https://img.shields.io/badge/TechSpiritSS-30302f?style=flat&logo=instagram)](https://instagram.com/TechSpiritSS)
+[![telegram badge](https://img.shields.io/badge/TechSpiritSS-30302f?style=flat&logo=telegram)](https://t.me/TechSpiritSS)
