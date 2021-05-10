@@ -1,10 +1,10 @@
 ### Hi, My name is Sidharth Sethi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🔭 I’m currently working on - Personal Growth
-- 🌱 I’m currently learning - C, C++
+- 🌱 Languages use - C, C++, Python
 - 👯 I’m looking to collaborate with - Open Source Projects
 - 💬 Ask me about - My codes
-- 🥅 2021 Goal - Learn to code properly
+- 🥅 2021 Goal - DSA and OOP
 - ⚡ Fun fact - Lazy
 - ⚒  Past Work - CrossWoC
 
