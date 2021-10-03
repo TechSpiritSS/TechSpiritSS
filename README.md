@@ -14,8 +14,6 @@
 
 ![Sidharth's github stats](https://github-readme-stats.vercel.app/api?username=TechSpiritSS&count_private=true&include_all_commits=true&theme=dark&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechSpiritSS&layout=compact&theme=dark)
-
 <h1>Technical Skills 🛠</h1>
 
 <p align="center"> 
