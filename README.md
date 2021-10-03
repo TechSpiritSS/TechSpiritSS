@@ -33,6 +33,7 @@
 
 [![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=TechSpiritSS&theme=xcode)](https://git.io/TechSpiritSS)
 
+![Metrics](https://metrics.lecoq.io/TechSpiritSS?template=classic&commits.authoring=sidharth.sherry%40gmail.com%2C%20TechSpiritSS&isocalendar=1&languages=1&lines=1&achievements=1&pagespeed=1&notable=1&activity=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.repositories=false&pagespeed.url=https%3A%2F%2Fgithub.com%2FTechSpiritSS&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta)
 ## Connect with me:
 [![linkedin badge](https://img.shields.io/badge/Sidharth_Sethi-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/sidharthsethiss)
 [![twitter badge](https://img.shields.io/badge/TechSpiritSS-30302f?style=flat&logo=twitter)](https://twitter.com/TechSpiritSS)
