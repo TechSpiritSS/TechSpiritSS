@@ -10,7 +10,6 @@
 
 <h3>Github Stats</h3>
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=TechSpiritSS&theme=dark" width="48%" >
 
 ![Sidharth's github stats](https://github-readme-stats.vercel.app/api?username=TechSpiritSS&count_private=true&include_all_commits=true&theme=dark&show_icons=true)
 
