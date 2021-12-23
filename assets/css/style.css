@@ -39,7 +39,6 @@ h2 {
   align-items: center;
   justify-content: center;
   margin: 1rem 0;
-  padding-top: 0.5rem;
 }
 
 .card-body h3 {
@@ -105,6 +104,12 @@ h2 {
   margin: 1rem 0;
   border-radius: 10px;
   height: 100%;
+  width: 100%;
+}
+
+.zoom-on-hover {
+  height: 75vh;
+  object-fit: scale-down;
   width: 100%;
 }
 
