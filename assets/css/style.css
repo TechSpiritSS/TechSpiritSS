@@ -3,6 +3,7 @@
 :root {
   --primary-font: "Lobster", cursive;
   --secondary-font: "Poppins", sans-serif;
+  --primary-background: #e3e6e9;
 }
 
 body {
@@ -10,7 +11,7 @@ body {
   font-size: 1.2rem;
   line-height: 1.5;
   color: #333;
-  background-color: #fafafa;
+  background-color: var(--primary-background);
 }
 
 .btn {
@@ -30,6 +31,15 @@ h2 {
   font-weight: bold;
   color: #333;
   text-align: center;
+}
+
+.special-skill-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 1rem 0;
+  padding-top: 0.5rem;
 }
 
 .card-body h3 {
@@ -62,4 +72,38 @@ h2 {
   width: 100%;
   height: 100%;
   object-fit: cover;
+}
+
+.card-body {
+  padding: 1rem;
+  min-height: 240px;
+  max-height: 400px;
+}
+
+.social-icons .fa {
+  color: #fff;
+  transition: all 0.2s ease-in-out;
+}
+
+.social-icons .fa:hover {
+  color: rgb(0, 153, 255);
+}
+
+.portfolio-block {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 1rem 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+#Skills {
+  background-color: #fafafa;
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 10px;
+  height: 100%;
+  width: 100%;
 }
