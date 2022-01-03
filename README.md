@@ -2,11 +2,11 @@
 
 - 🔭 I’m currently working on - Personal Growth
 - 🌱 Languages use - C, C++, Python, SQL, Java, HTML, CSS, JavaScript
-- 👯 I’m looking to collaborate with - Open Source Projects
-- 💬 Ask me about - My codes
-- 🥅 2021 Goal - DSA and OOP
-- ⚡ Fun fact - Lazy
-- ⚒ Past Work - CrossWoC, GSSoC
+- 👯 I’m looking to collaborate with - Open Source Projects 
+- 💬 Ask me about - Nothing xD
+- 🥅 2022 Goal - 365 days of LeetCode
+- ⚡ Fun fact - Gamer
+- ⚒ Past Work - CrossWoC, GSSoC, HacktoberFest, Various Hackathons
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/TechSpiritSS/TechSpiritSS/blob/main/devcard.svg" width="400" alt="Sidharth Sethi's Dev Card"/></a>
 
