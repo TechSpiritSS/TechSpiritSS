@@ -8,7 +8,8 @@
 - ⚡ Fun fact - Lazy
 - ⚒ Past Work - CrossWoC, GSSoC
 
-<a href="https://app.daily.dev/TechSpiritSS"><img src="https://api.daily.dev/devcards/2a644ca8077d49259857b6330bfd5b58.png?r=a30" width="400" alt="Sidharth Sethi's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/TechSpiritSS/TechSpiritSS/blob/master/devcard.svg" width="400" alt="Sidharth Sethi's Dev Card"/></a>
+
 
 <h3>Github Stats</h3>
 
