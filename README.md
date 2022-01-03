@@ -8,6 +8,8 @@
 - ⚡ Fun fact - Lazy
 - ⚒ Past Work - CrossWoC, GSSoC
 
+<a href="https://app.daily.dev/TechSpiritSS"><img src="https://api.daily.dev/devcards/2a644ca8077d49259857b6330bfd5b58.png?r=a30" width="400" alt="Sidharth Sethi's Dev Card"/></a>
+
 <h3>Github Stats</h3>
 
 ![Sidharth's github stats](https://github-readme-stats.vercel.app/api?username=TechSpiritSS&count_private=true&include_all_commits=true&theme=dark&show_icons=true)
