@@ -9,7 +9,6 @@
 - ⚒ Past Work - CrossWoC, GSSoC, HacktoberFest, Various Hackathons
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/TechSpiritSS/TechSpiritSS/blob/main/devcard.svg" width="400" alt="Sidharth Sethi's Dev Card"/></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TechSpiritSS" alt="TechSpiritSS" /> </p>
 
 <h3>Github Stats</h3>
 
