@@ -7,6 +7,7 @@
 - ⚡ Fun fact - Gamer
 - ⚒ Past Work - CrossWoC, GSSoC, HacktoberFest, Various Hackathons
 - 📃 Resume - [Resume](https://drive.google.com/file/d/13YIRwfx0-qAFCmIX1GJjdPNFGdKcOKrr/view?usp=sharing)
+- 💼 Portfolio - [Portfolio](https://techspiritss.github.io/Sidharth_Sethi/)
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/TechSpiritSS/TechSpiritSS/blob/main/devcard.svg" width="400" alt="Sidharth Sethi's Dev Card"/></a>
 
