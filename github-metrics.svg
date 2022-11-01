@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    484k added, 3.98k removed
+                                    428k added, 1.82k removed
                                 </div>
                             </section>
                             <section>
@@ -379,7 +379,7 @@
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/>
                         </svg>
-                        API error: 429 ((consider using "plugin_pagespeed_token"))
+                        API error: 500
                     </div>
                 </section>
             </div>
@@ -2525,9 +2525,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="61.03498779495525 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="61.010166734444894 329"/>
                                     <text x="60" y="50" dominant-baseline="central">456</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2458</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2459</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -2552,9 +2552,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="15.14732965009208 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="15.119485294117649 329"/>
                                     <text x="60" y="50" dominant-baseline="central">25</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/543</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/544</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
@@ -2652,7 +2652,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="29.2175 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="29.295 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2674,7 +2674,7 @@
                                     <span class="prefix">Super</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 877 times</div>
+                                <div class="text">Repositories have been deployed 878 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2832,7 +2832,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 273k out of 352m repositories</span>
+                                    <span class="gh">ranked 274k out of 352m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 38 times</div>
                             </div>
@@ -3147,7 +3147,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Nov 2022, 06:31:31 (timezone Asia/Calcutta) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 1 Nov 2022, 09:33:00 (timezone Asia/Calcutta) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
