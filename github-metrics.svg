@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1662 Commits
+                            1723 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            319 issue comments
+                            321 issue comments
                         </div>
                     </section>
                     <section>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    350k added, 6.80k removed
+                                    452k added, 3.45k removed
                                 </div>
                             </section>
                             <section>
@@ -197,7 +197,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                     </svg>
-                                    66 Forkers
+                                    67 Forkers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="282.5900812317588" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="282.5900812317588" y="0" width="133.46223526093218" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="416.052316492691" y="0" width="12.345307847003301" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="428.3976243396943" y="0" width="9.454548462255225" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="437.8521728019495" y="0" width="7.0029756361766395" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="444.85514843812615" y="0" width="6.544568515641555" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="451.39971695376767" y="0" width="3.7706740829875356" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="455.17039103675523" y="0" width="4.829608963244776" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="282.57708530404074" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="282.57708530404074" y="0" width="133.4560975169782" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="416.0331828210189" y="0" width="12.34474010333821" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="428.3779229243571" y="0" width="9.454113660623523" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="437.83203658498064" y="0" width="7.002653578994794" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="444.83469016397544" y="0" width="6.544267539970349" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="451.3789577039458" y="0" width="3.7916554398583293" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="455.17061314380413" y="0" width="4.829386856195868" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2412,21 +2412,25 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 3 commits in
                                         <span class="repo">TechSpiritSS/Terminal-Portfolio</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5d45c42</div>
-                                        <div class="message">Merge pull request #92 from siddharthsinghvats/theme-dropdown
+                                        <div class="sha">#cd9f6f4</div>
+                                        <div class="message">Merge pull request #94 from siddharthsinghvats/theme-dropdown
 
-make theme dropdown</div>
+Theme dropdown background sync and animation to close icon</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#85c3cf8</div>
-                                        <div class="message">make theme dropdown</div>
+                                        <div class="sha">#1053ce0</div>
+                                        <div class="message">Merge branch 'TechSpiritSS:main' into theme-dropdown</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#21f9315</div>
+                                        <div class="message">sync background of theme dropdown</div>
                                     </div>
                                 </div>
                             </section>
@@ -2440,11 +2444,11 @@ make theme dropdown</div>
                                     </svg>
                                     <div class="content">
                                         Closed
-                                        <span class="issue">#45 [Req]: Dropdown Menu for Theme Switcher</span>
+                                        <span class="issue">#93 [Req]: To sync the background of theme dropdown </span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened  in <span class="repo">TechSpiritSS/Terminal-Portfolio</span></div>
+                                    <div>opened by siddharthsinghvats in <span class="repo">TechSpiritSS/Terminal-Portfolio</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2456,12 +2460,12 @@ make theme dropdown</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#92 make theme dropdown</span>
+                                        <span class="issue">#94 Theme dropdown background sync and animation to close icon</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>opened by siddharthsinghvats in <span class="repo">TechSpiritSS/Terminal-Portfolio</span></div>
-                                    <div>6 files changed <span class="code">++114 --14</span></div>
+                                    <div>6 files changed <span class="code">++44 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2473,7 +2477,7 @@ make theme dropdown</div>
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#92 make theme dropdown</span>
+                                        <span class="issue">#94 Theme dropdown background sync and animation to close icon</span>
                                     </div>
                                 </div>
                                 <div class="details">
@@ -2481,8 +2485,12 @@ make theme dropdown</div>
                                     <div class="comment">
                                         Great
                                         <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                            <path fill="#FFAC33" d="M28.84 17.638c-.987 1.044-1.633 3.067-1.438 4.493l.892 6.441c.197 1.427-.701 2.087-1.996 1.469l-5.851-2.796c-1.295-.62-3.408-.611-4.7.018l-5.826 2.842c-1.291.629-2.193-.026-2.007-1.452l.843-6.449c.186-1.427-.475-3.444-1.47-4.481l-4.494-4.688c-.996-1.037-.655-2.102.755-2.365l6.37-1.188c1.41-.263 3.116-1.518 3.793-2.789L16.762.956c.675-1.271 1.789-1.274 2.473-.009L22.33 6.66c.686 1.265 2.4 2.507 3.814 2.758l6.378 1.141c1.412.252 1.761 1.314.774 2.359l-4.456 4.72z"/>
-                                            <path fill="#FFD983" d="M9.783 2.181c1.023 1.413 2.446 4.917 1.717 5.447-.728.531-3.607-1.91-4.63-3.323-1.022-1.413-.935-2.668-.131-3.254.804-.587 2.02-.282 3.044 1.13zm19.348 2.124C28.109 5.718 25.23 8.16 24.5 7.627c-.729-.53.695-4.033 1.719-5.445C27.242.768 28.457.463 29.262 1.051c.803.586.89 1.841-.131 3.254zM16.625 33.291c-.001-1.746.898-5.421 1.801-5.421.897 0 1.798 3.675 1.797 5.42 0 1.747-.804 2.712-1.8 2.71-.994.002-1.798-.962-1.798-2.709zm16.179-9.262c-1.655-.539-4.858-2.533-4.579-3.395.277-.858 4.037-.581 5.69-.041 1.655.54 2.321 1.605 2.013 2.556-.308.95-1.469 1.42-3.124.88zM2.083 20.594c1.655-.54 5.414-.817 5.694.044.276.857-2.928 2.854-4.581 3.392-1.654.54-2.818.07-3.123-.88-.308-.95.354-2.015 2.01-2.556z"/>
+                                            <path fill="#A0041E" d="M1 17l8-7 16 1 1 16-7 8s.001-5.999-6-12-12-6-12-6z"/>
+                                            <path fill="#FFAC33" d="M.973 35s-.036-7.979 2.985-11S15 21.187 15 21.187 14.999 29 11.999 32c-3 3-11.026 3-11.026 3z"/>
+                                            <circle fill="#FFCC4D" cx="8.999" cy="27" r="4"/>
+                                            <path fill="#55ACEE" d="M35.999 0s-10 0-22 10c-6 5-6 14-4 16s11 2 16-4c10-12 10-22 10-22z"/>
+                                            <path d="M26.999 5c-1.623 0-3.013.971-3.641 2.36.502-.227 1.055-.36 1.641-.36 2.209 0 4 1.791 4 4 0 .586-.133 1.139-.359 1.64 1.389-.627 2.359-2.017 2.359-3.64 0-2.209-1.791-4-4-4z"/>
+                                            <path fill="#A0041E" d="M8 28s0-4 1-5 13.001-10.999 14-10-9.001 13-10.001 14S8 28 8 28z"/>
                                         </svg>
                                     </div>
                                 </div>
@@ -2496,12 +2504,22 @@ make theme dropdown</div>
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#91  fixing typos and add customization to contribuion.md</span>
+                                        <span class="issue">#93 [Req]: To sync the background of theme dropdown </span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by Shubh08am in <span class="repo">TechSpiritSS/Terminal-Portfolio</span></div>
-                                    <div class="comment">one or two typo might not be considered as a valid contribution to the project</div>
+                                    <div>opened by siddharthsinghvats in <span class="repo">TechSpiritSS/Terminal-Portfolio</span></div>
+                                    <div class="comment">
+                                        Sure go for it
+                                        <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                            <path fill="#A0041E" d="M1 17l8-7 16 1 1 16-7 8s.001-5.999-6-12-12-6-12-6z"/>
+                                            <path fill="#FFAC33" d="M.973 35s-.036-7.979 2.985-11S15 21.187 15 21.187 14.999 29 11.999 32c-3 3-11.026 3-11.026 3z"/>
+                                            <circle fill="#FFCC4D" cx="8.999" cy="27" r="4"/>
+                                            <path fill="#55ACEE" d="M35.999 0s-10 0-22 10c-6 5-6 14-4 16s11 2 16-4c10-12 10-22 10-22z"/>
+                                            <path d="M26.999 5c-1.623 0-3.013.971-3.641 2.36.502-.227 1.055-.36 1.641-.36 2.209 0 4 1.791 4 4 0 .586-.133 1.139-.359 1.64 1.389-.627 2.359-2.017 2.359-3.64 0-2.209-1.791-4-4-4z"/>
+                                            <path fill="#A0041E" d="M8 28s0-4 1-5 13.001-10.999 14-10-9.001 13-10.001 14S8 28 8 28z"/>
+                                        </svg>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -2590,7 +2608,7 @@ make theme dropdown</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="142.29 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="142.49666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2612,7 +2630,7 @@ make theme dropdown</div>
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 2377 times</div>
+                                <div class="text">Repositories have been deployed 2379 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2805,7 +2823,7 @@ make theme dropdown</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="75.15151515151516 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="76.71717171717172 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -2836,9 +2854,9 @@ make theme dropdown</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 219k out of 367m repositories</span>
+                                    <span class="gh">ranked 215k out of 367m repositories</span>
                                 </div>
-                                <div class="text">Maintaining or created a repository which has been forked 49 times</div>
+                                <div class="text">Maintaining or created a repository which has been forked 50 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -3156,7 +3174,7 @@ make theme dropdown</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Jan 2023, 23:40:15 (timezone Asia/Calcutta) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 5 Jan 2023, 00:38:18 (timezone Asia/Calcutta) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
