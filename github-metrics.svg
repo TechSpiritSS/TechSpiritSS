@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1987 Commits
+                            1989 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    455k added, 10.6k removed
+                                    456k added, 10.8k removed
                                 </div>
                             </section>
                             <section>
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="280.7493492020269" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="280.7493492020269" y="0" width="133.87853631873472" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="414.62788552076165" y="0" width="12.264893122353985" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="426.8927786431156" y="0" width="9.39296353292838" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="436.285742176044" y="0" width="8.090112319498663" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="444.3758544955427" y="0" width="6.610482359811727" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="450.98633685535435" y="0" width="4.215513232868507" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="455.20185008822284" y="0" width="4.798149911777099" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="280.7488321148338" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="280.7488321148338" y="0" width="133.87913697277986" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="414.6279690876137" y="0" width="12.26487053274095" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="426.8928396203546" y="0" width="9.392946232866377" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="436.285785853221" y="0" width="8.090097419042142" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="444.3758832722631" y="0" width="6.610470184553696" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="450.9863534568168" y="0" width="4.215505468690561" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="455.2018589255074" y="0" width="4.798141074492606" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2434,6 +2434,46 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#d5ea2c2</div>
+                                        <div class="message">Time: 5 ms (58.21%), Space: 16.5 MB (25.51%) - LeetHub</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">TechSpiritSS/Daily-Problem-Solving</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#268ff10</div>
+                                        <div class="message">Attach NOTES - LeetHub</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">TechSpiritSS/Daily-Problem-Solving</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#c53ce74</div>
                                         <div class="message">Time: 8 ms (73.62%), Space: 18.9 MB (19.71%) - LeetHub</div>
                                     </div>
@@ -2476,46 +2516,6 @@
                                     <div class="commit">
                                         <div class="sha">#c40f525</div>
                                         <div class="message">Time: 3 ms (82.69%), Space: 12.5 MB (66.60%) - LeetHub</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">TechSpiritSS/Daily-Problem-Solving</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7529107</div>
-                                        <div class="message">Create README - LeetHub</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">TechSpiritSS/Daily-Problem-Solving</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8358f1f</div>
-                                        <div class="message">Attach NOTES - LeetHub</div>
                                     </div>
                                 </div>
                             </section>
@@ -2605,7 +2605,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="295.43 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="295.53333333333336 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2627,7 +2627,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 3859 times</div>
+                                <div class="text">Repositories have been deployed 3860 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -3171,7 +3171,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Mar 2023, 23:39:09 (timezone Asia/Calcutta) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 12 Mar 2023, 00:36:41 (timezone Asia/Calcutta) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
