@@ -1,14 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=TechSpiritSS;Sidharth+Sethi)](https://git.io/typing-svg)
 ### Hi, My name is Sidharth Sethi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🔭 I’m currently working as - ReactJS Developer at Quaterstack Technologies  
+<!-- - 🔭 I’m currently working as - SDE at Quaterstack Technologies   -->
 - 🌱 Languages use - C, C++, SQL, HTML, CSS, JavaScript
-- 👯 I’m looking to collaborate with - Open Source Projects
+- 👯 I’m looking to work as - Prompt Engineer, SDE
 - 🥅 2022 Goal - 365 days of LeetCode (Achieved)
 - 🥅 2023 Goal - Become Industry Ready for Placement
 - ⚡ Fun fact - Gamer
-- ⚒ Past Work - CrossWoC, GSSoC, HacktoberFest, SWoC, Various Hackathons
-- 📃 Resume - [Resume](https://drive.google.com/file/d/1A3L61RE6H5WI3sIOLfXzg95DLAaVrYmw/view?usp=sharing)
+- ⚒ Past Work - SDE at Quaterstack Technologies, RaectJS Trainee at E.Q. Soft Solutions, CrossWoC, GSSoC, HacktoberFest, SWoC, Various Hackathons
+- 📃 Resume - [Resume](https://drive.google.com/file/d/1du0xSgEP2WlVehaNrITie-1tx_bCX8Uq/view?usp=share_link)
 - 💼 Portfolio - [Portfolio](https://techspiritss.co)
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/TechSpiritSS/TechSpiritSS/blob/main/devcard.svg" width="400" alt="Sidharth Sethi's Dev Card"/></a>
