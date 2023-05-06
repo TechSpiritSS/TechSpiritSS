@@ -9,7 +9,7 @@
 - ⚡ Fun fact - Gamer
 - ⚒ Past Work - SDE at Quaterstack Technologies, RaectJS Trainee at E.Q. Soft Solutions, CrossWoC, GSSoC, HacktoberFest, SWoC, Various Hackathons
 - 📃 Resume - [Resume](https://drive.google.com/file/d/1du0xSgEP2WlVehaNrITie-1tx_bCX8Uq/view?usp=share_link)
-- 💼 Portfolio - [Portfolio](https://techspiritss.co)
+- 💼 Portfolio - [Portfolio](https://techspiritss.github.io/Terminal-Portfolio/)
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/TechSpiritSS/TechSpiritSS/blob/main/devcard.svg" width="400" alt="Sidharth Sethi's Dev Card"/></a>
 
