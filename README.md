@@ -2,12 +2,12 @@
 ### Hi, My name is Sidharth Sethi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!-- - 🔭 I’m currently working as - SDE at Quaterstack Technologies   -->
-- 🌱 Languages use - C, C++, SQL, HTML, CSS, JavaScript
+- 🌱 Languages use - C, C++, SQL, HTML, CSS, JavaScript, TypeScript
 - 👯 I’m looking to work as - Prompt Engineer, SDE
 - 🥅 2022 Goal - 365 days of LeetCode (Achieved)
 - 🥅 2023 Goal - Become Industry Ready for Placement
 - ⚡ Fun fact - Gamer
-- ⚒ Past Work - SDE at Quaterstack Technologies, RaectJS Trainee at E.Q. Soft Solutions, CrossWoC, GSSoC, HacktoberFest, SWoC, Various Hackathons
+- ⚒ Past Work - Fullstack devloper at Mercor, SDE at Quaterstack Technologies, RaectJS Trainee at E.Q. Soft Solutions, CrossWoC, GSSoC, HacktoberFest, SWoC, Various Hackathons
 - 📃 Resume - [Resume](https://drive.google.com/file/d/1du0xSgEP2WlVehaNrITie-1tx_bCX8Uq/view?usp=share_link)
 - 💼 Portfolio - [Portfolio](https://techspiritss.github.io/Terminal-Portfolio/)
 
@@ -105,9 +105,7 @@
 </div>
 
 
-<!---
 ![Metrics](https://metrics.lecoq.io/TechSpiritSS?template=classic&commits.authoring=sidharth.sherry%40gmail.com%2C%20TechSpiritSS&isocalendar=1&languages=1&lines=1&achievements=1&pagespeed=1&notable=1&activity=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.repositories=false&pagespeed.url=https%3A%2F%2Fgithub.com%2FTechSpiritSS&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta)
---->
 
 ![Metrics](/github-metrics.svg)
 
